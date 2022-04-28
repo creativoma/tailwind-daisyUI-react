@@ -19,8 +19,8 @@
 
 ## Links
 
-- Repo: [https://github.com/creativoma/tailwind-daisyUI-react](https://github.com/creativoma/tailwind-daisyUI-react)
-- Deploy: [https://tailwind-daisyUI-react.vercel.app/](https://tailwind-daisyUI-react.vercel.app/)
+- Repo: [github.com/creativoma/tailwind-daisyUI-react](https://github.com/creativoma/tailwind-daisyUI-react)
+- Deploy: [tailwind-daisy-ui-react.vercel.app](https://tailwind-daisy-ui-react.vercel.app)
 
 ## Built with
 
@@ -34,5 +34,5 @@
 
 ## Author
 
-- Github: [https://github.com/creativoma](https://github.com/creativoma)
-- Linkedin: [https://www.linkedin.com/in/ma-marianoalvarez/](https://www.linkedin.com/in/ma-marianoalvarez/)
+- Github: [github.com/creativoma](https://github.com/creativoma)
+- Linkedin: [linkedin.com/in/ma-marianoalvarez](https://www.linkedin.com/in/ma-marianoalvarez/)
